@@ -1,0 +1,18 @@
+<div class="swiper-slide">
+                     <span>SUMMER DRINKS</span>
+                     <b>Meet our new<br><span>Summer</span> Caramel Frappuccino</b>
+                     <p>Cold latter and cappuccino, frappucino, iced mocha<br> are available in our new summer menu.</p>
+                     <button>Find out more</button>                     
+                  </div>
+                  <div class="swiper-slide">
+                     <span>SUMMER DRINKS</span>
+                     <b><span>50% discount</span><br> Coffee Frappuccino</b>
+                     <p>Cold latter and cappuccino, frappucino, iced mocha<br> are available in our new summer menu.</p>
+                     <button>Find out more</button>                     
+                  </div>
+                  <div class="swiper-slide">
+                     <span>SUMMER DRINKS</span>
+                     <b><span>Delicious</span><br> Java Chip Frappuccino</b>
+                     <p>Cold latter and cappuccino, frappucino, iced mocha<br> are available in our new summer menu.</p>
+                     <button>Find out more</button>                     
+                  </div>
